@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
+            Tyche GAMES
           </a>{' '}
         </div>
 
@@ -26,28 +26,28 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
+              <a href='#about' className='page-scroll'>
+                Learn
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
+                LitePaper
               </a>
             </li>
-            <li>
-              <a href='#services' className='page-scroll'>
-                Services
+         <li>
+            <a href='https://twitter.com/tyche_games' target='_blank' className='page-scroll'>
+                Twitter
               </a>
-            </li>
+         </li> 
             <li>
-              <a href='#portfolio' className='page-scroll'>
-                Gallery
+              <a href='http://t.me/Tyche_Games' target='_blank' className='page-scroll'>
+                Telegram
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Webapp
               </a>
             </li>
             

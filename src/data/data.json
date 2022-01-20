@@ -1,23 +1,21 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Tyche Games",
+        "paragraph": "Decentralized GameFi On Terra Blockchain"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": " Tyche Games is built on a cross-chain smart protocol based on the Terra blockchain. Our mission is to build a decentralized casual game platform with broad participation, in which both players and game creators can benefit. , fully experience the benefits of web 3.0 and Gamefi. At the same time, Tyche Games is committed to providing a powerful GameFi platform for the Terra ecosystem, combining the advantages of Terra's financial system, using an efficient and practical tokenomics to empower Tyche Games platform games, and providing blockchain game users and game creators. The game form of play to earn. We hope that with the rise of Gamefi, Meta and Defi, Tyche Games and Terra ecosystem will be combined to become a game platform with millions of users in the Web3.0。",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Innovative tokenomics ",
+            "Professional technical team"
+            
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Fun game product",
+            "Decentralized Community DAO"
+           
         ]
     },
     "Services": [{
@@ -114,23 +112,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Decentralized",
+            "text": "  Tyche Games integrates blockchain finance and gameplay, combines DeFi and NFT to build a Web 3.0-based decentralized game platform, and generates an aggregation platform that can connect many games through core smart contracts."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Play to Earn",
+            "text": "  Players can get rewards by playing games and holding tokens on the entire platform of Tyche Games, allowing users to earn income while enjoying the fun of the game."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "DAO",
+            "text": "  Carrying forward the spirit of blockchain decentralization, the Tyche Games Fund is autonomously governed by the DAO community, and important decisions require community voting to truly achieve community autonomy."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "CrossChain",
+            "text": "  Based on the Terra blockchain, Tyche Games will implement a cross-chain bridge mechanism, and assets from other chains can also quickly enter Tyche Games to participate in the game experience and gain game incentives."
         }
     ]
 }
