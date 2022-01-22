@@ -4,7 +4,8 @@ export const Header = (props) => {
   return (
     <header id='header'>
       <div className='intro'>
-        <ParticlesBg type="ball" color="#000000" bg={{zIndex: 0, position:"absolute", top:0}} />
+        {/*动态粒子背景 */}
+       {/* <ParticlesBg type="ball" color="#000000" bg={{zIndex: 0, position:"absolute", top:0}} />*/}
         <div className='overlay'>
           <div className='container'>
           
