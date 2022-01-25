@@ -13,7 +13,7 @@ export const Features = (props) => {
                  {/*  <i className={d.icon}></i>*/}
                  <img src={d.icon} height='200' width='200'/>   {' '}
                  {/*  <h3>{d.title}</h3>*/}
-                  <p className='text-left'>&nbsp; &nbsp; {d.text}</p>
+                  <p className='text-left'>{d.text}</p>
                 </div>
               ))
             : 'Loading...'}
