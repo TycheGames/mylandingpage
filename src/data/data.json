@@ -110,17 +110,19 @@
         "youtube": "youtube.com"
     },
     "Features": [{
+    
+        "icon": "img/feature/play2earn.png",
+         "title": "Play to Earn",
+         "text": "Players can get rewards by playing games and holding tokens on the entire platform of Tyche Games, allowing users to earn income while enjoying the fun of the game."
+        },
+             
+        {
  
            "icon": "img/feature/decentralized.png",
             "title": "Decentralized",
             "text": "Tyche Games integrates blockchain finance and gameplay, combines DeFi and NFT to build a Web 3.0-based decentralized game platform, and generates an aggregation platform that can connect many games through core smart contracts."
         },
-        {
-    
-           "icon": "img/feature/play2earn.png",
-            "title": "Play to Earn",
-            "text": "Players can get rewards by playing games and holding tokens on the entire platform of Tyche Games, allowing users to earn income while enjoying the fun of the game."
-        },
+  
         {
 
            "icon": "img/feature/dao.png",
