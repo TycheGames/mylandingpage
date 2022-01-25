@@ -5,12 +5,12 @@ export const About = (props) => {
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
             {' '}
-            <img src='img/about.jpg' className='img-responsive' alt='' />{' '}
+            <img src='img/about.png' className='img-responsive' alt='' />{' '}
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
               <h2> What are we going to do?</h2>
-              <p>{props.data ? props.data.paragraph : 'loading...'}</p>
+              <p> &nbsp; &nbsp; {props.data ? props.data.paragraph : 'loading...'}</p>
               <h3>Our advantages</h3>
               <div className='list-style'>
                 <div className='col-lg-6 col-sm-6 col-xs-12'>

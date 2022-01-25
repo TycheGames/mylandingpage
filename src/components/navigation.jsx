@@ -2,8 +2,9 @@ export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
-        <div className='navbar-header'>
-          <button
+       {/**  <div padding-bottom='10%' className='navbar-header'>*/}
+        <div height='100%' width='100%' className='navbar-header'>
+            <button
             type='button'
             className='navbar-toggle collapsed'
             data-toggle='collapse'
@@ -18,6 +19,8 @@ export const Navigation = (props) => {
           <a className='navbar-brand page-scroll' href='#page-top'>
             Tyche GAMES
           </a>{' '}
+          
+          <img src='img/logo@2x.png' width='235' className='navbar-brand page-scroll' alt='' />{' '}
         </div>
 
         <div
@@ -31,7 +34,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#about' className='page-scroll'>
+              <a href=' ' className='page-scroll'>
                 LitePaper
               </a>
             </li>
@@ -47,7 +50,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Webapp
+                Webapp（coming soon）
               </a>
             </li>
             
