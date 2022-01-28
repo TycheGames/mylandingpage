@@ -34,7 +34,7 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href=' ' className='page-scroll'>
+              <a href='https://medium.com/@tychegames/tyche-games-litepaper-e24cb0a2e9f' target='_blank' className='page-scroll'>
                 LitePaper
               </a>
             </li>
